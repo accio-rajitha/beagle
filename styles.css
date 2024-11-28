@@ -1,0 +1,64 @@
+
+body {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+   
+    background-color: #f9f9f9;
+}
+
+h1 {
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+p, ol {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.6;
+}
+li{
+    margin-left: -18px;
+    font-size: 15px;
+}
+
+.topSection {
+    width: 700px;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid black; 
+    margin-top: -5px;
+}
+.imageSection {
+    width: 700px;
+    margin: 5px;
+    padding: 5px;
+    
+}
+.triviaSection{
+    width: 700px;
+    margin: 5px;
+    padding: 5px;
+    margin-top: -25px;
+    
+}
+div{
+    padding: 5px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+    text-underline-offset: 4px;    
+    
+}
+
+
+
+.beagle-image {
+    display: block;
+   
+    max-width: 100%;
+    height: auto;
+}
